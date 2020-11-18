@@ -6,4 +6,4 @@ Si quieres hacer uso del código:
   
   - npm i
   - add your db URL to MONGO_URL in server.js
-  - node server ./server.js
+  - node ./server.js
